@@ -67,9 +67,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | dd/mm/aaaa | a fazer  | [MVP](#/MVP/sp1.md)  |
 | 02                | dd/mm/aaaa | a fazer  | [MVP](#)  |
 | 03                | dd/mm/aaaa | a fazer  | [MVP](#)  |
-| 04                | dd/mm/aaaa | a fazer  | [MVP](#)  |
 | Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
 
