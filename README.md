@@ -73,8 +73,3 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 04                | dd/mm/aaaa | a fazer  | [MVP](#)  |
 | Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
 
-
-
-
-
-      |
