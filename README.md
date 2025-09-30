@@ -19,7 +19,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Filipe Gabriel         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
+| Product Owner | Filipe Gabriel               |         https://github.com/StassieFilipe          |
 | Scrum Master  | Ana Beatriz                  |         https://github.com/anachiavini            |
 | Team Member   | Thamires Thomaz              |         http://github.com/thamiresthomaz          |
 |  Team Member  | Gabriela Souza               |         https://github.com/GabrielaSouzaOiveira   |
