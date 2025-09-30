@@ -22,17 +22,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | Product Owner | Filipe Gabriel               |         https://github.com/StassieFilipe          |
 | Scrum Master  | Ana Beatriz                  |         https://github.com/anachiavini            |
 | Team Member   | Thamires Thomaz              |         http://github.com/thamiresthomaz          |
-|  Team Member  | Gabriela Souza               |         https://github.com/GabrielaSouzaOiveira   |
+| Team Member   | Gabriela Souza               |         https://github.com/GabrielaSouzaOiveira   |
     
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo o desenvolvimento de uma plataforma power BI que permita visualizar informações sobre o desempenho dos estados brasileiros e de municípios do estado de São Paulo no comércio exterior,com base nos dados abertos do ministério do desenvolvimento,indústria,comércio e serviços.Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis,permitindo a identificação de municípios que estejam em ascenção,estagnação ou declínio no mercado internacional.
 
 
 ## Tecnologias Utilizadas
