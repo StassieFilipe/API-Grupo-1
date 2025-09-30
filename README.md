@@ -53,11 +53,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    | Média      | Como gestor,quero que os dados obtidos sejam do ministério do desenvolvimento,industria,comércio,e serviços,para fornecer dados reais e acessiveis.     | 8          | 1      |
+| 2    | Alta       | Como gestor,quero que os dados passem por um tratamento em linguagem de programação(Python),para que os dados fiquem limpos na sua visualização.        | 6          | 1      |
+| 3    | Alta       | Como gestor,quero importar, tratar e exportar dados em formatos CSV das importações e exportações,para que eu possa padronizar informações, gerar relatórios e disponibilizar os resultados de forma acessível.                                                                                                                                                              | 8          | 1      |
+| 4    | Média      | Como gestor                                                                                                                                             |  6         | 1      |
+| 5    | Média      | Como gestor, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes       | 8          | 1      |
 
 
 
