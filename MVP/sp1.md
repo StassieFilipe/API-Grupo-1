@@ -69,3 +69,4 @@
 - Print do jira
 - Print do Power BI
 - Requisitos do cliente
+- Colab (Python)
