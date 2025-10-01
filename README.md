@@ -53,6 +53,11 @@ Este projeto tem como objetivo o desenvolvimento de uma plataforma power BI que 
 | 5    | Média      | Como gestor,quero que essa ferramenta possa fornecer dados claros,para permitir a indentificação de municípios que estejam em ascenção,estagnação ou declínio no mercado.| 8          | 1      |
 
 
+# Power BI
+
+<img width="1439" height="786" alt="Image" src="https://github.com/user-attachments/assets/c418769d-41f9-472f-8465-dafe1ccda587" />
+
+
 
 
 
