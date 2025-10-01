@@ -1,8 +1,7 @@
 # Aprendizado por Projeto Integrado (API) - Grupo 1
+Acompanhamento por desempenho de exportação e importação com foco no comparativo entre estados da federação e de municípios no estado de SP.
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
