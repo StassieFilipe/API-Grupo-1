@@ -7,6 +7,7 @@ Acompanhamento por desempenho de exportação e importação com foco no compara
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
+* [Competências desenvolvidas](#Competências desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
@@ -57,6 +58,13 @@ Este projeto tem como objetivo o desenvolvimento de uma plataforma power BI que 
 | 8 | Alta   | Como gestor,quero que tenha uma identificação de mercados emergentes,para verificar quais países têm aumentado a importação/exportação de produtos específicos.| 8 | 3 |
 | 9 | Alta   | Como gestor,quero que na plataforma contenha projeções futuras,para ter análise de cenários futuros do desempenho comercial dos municípios nos próximos anos.| 8 | 3 |
 
+# Competências desenvolvidas
+- Documentação do projeto ágil(backlog do produto, de sprint, briefing, etc.)
+- Processo de desenvolvimento ágil
+- Caracterização do produto logístico
+- Lógica de programação básica
+- Lógica matemática
+- Persistência de dados em BD relacional
   
 # Registro das Sprints
 
