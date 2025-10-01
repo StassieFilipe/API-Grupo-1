@@ -7,7 +7,7 @@ Acompanhamento por desempenho de exportação e importação com foco no compara
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#Competências desenvolvidas)
+* [Competências desenvolvidas](#Competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
