@@ -1,54 +1,59 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [Tratamento dos dados CSV do COMEXSTAT,e acompanhamento de municípios que estejam em ascenção, estagnação e declínio mercado  ]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Tratar e desenvolver na plataforma Power BI, dados que permita acompanhar os municípios em ascenção,estagnação e declínio no mercado.  
+- Qual problema resolve? Dados limpos e confiáveis,podendo observar munícipios em baixas e altas na exportação e importação.
+- Qual hipótese será validada? Um dashboard na plataforma Power BI,em cima dos dados abertos do MDIC/COMEXSTAT,podendo apoiar gestores e empresas,em como esta se movimentando o mercado.
+- Qual valor será entregue ao usuário final? Tomada de decisão fundamentada em dados reais e acessiveis,para ter menores incertezas do mercado. 
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+É um dashboard no Power BI ligado a uma base de dados organizada por município paulista.
+
+- Funcionalidades principais incluí:Identificação de municípios que estejam em ascenção,estagnação ou declínio no mercado.
+- Limitações conhecidas:Visão restrita a 2023–2025.
+- Escopo reduzido:Segmentação de municípios em ascenção,estagnação ou declínio no mercado.  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Gestores publicos do comércio exterior, precisa monitorar desempenho dos municípios paulistas; dificuldade em acessar dados comparativos regionais e identificar tendências de mercado.
+- **Persona 2:** Analista/Empresa Exportadora, busca entender riscos e tarifas; Incerteza sobre custos e dificuldade em planejar rotas.
+ 
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como gestor,quero que os dados obtidos sejam do ministério do desenvolvimento,industria,comércio,e serviços,para fornecer dados reais e acessiveis.         | Média     | 8   |
+| US2 | Como gestor,quero que os dados passem por um tratamento em linguagem de programação(Python),para que os dados fiquem limpos na sua visualização.         | Alta      | 6   |
+| US3 | Como gestor,quero importar, tratar e exportar dados em formatos CSV das importações e exportações,para que eu possa padronizar informações, gerar relatórios e disponibilizar os resultados de forma acessível.   |  Alta  |  8  |
+| US4 | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise. | Média | 6 |
+| US5 | Como gestor,quero que essa ferramenta possa fornecer dados claros,para permitir a identificação de municípios que estejam em ascenção,estagnação ou declínio no mercado. | Média | 8 |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Limpeza inicial dos dados CSV (Python),e dashboard com os dados dos municípios em ascenção,estagnação e declínio no mercado.                        | Concluído|
+| 02     | Dashboard interativo,que contenha módulos de busca e filtros,para análise específica.                           | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário, visualize municípios em termos de comércio exterior.  
+- O sistema deve registrar, base de dados de municípios.
+- Métricas coletadas: Uso de filtros em análise.
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
+- Número de usuários que testaram o dashboard  
 - Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Indicadores de negócio (% de adesão do uso da plataforma, redução de custo, etc.)  
 
 ---
 
@@ -60,6 +65,7 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Slides da API
+- Print do jira
+- Print do Power BI
+- Requisitos do cliente
