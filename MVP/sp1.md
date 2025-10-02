@@ -1,4 +1,4 @@
-# 📌 MVP - [Tratamento dos dados CSV do COMEXSTAT,e acompanhamento de municípios que estejam em ascenção, estagnação e declínio mercado  ]
+[Power BI video.html](https://github.com/user-attachments/files/22650740/Power.BI.video.html)# 📌 MVP - [Tratamento dos dados CSV do COMEXSTAT,e acompanhamento de municípios que estejam em ascenção, estagnação e declínio mercado  ]
 
 ## 🎯 Objetivo do MVP
 > Tratar e desenvolver na plataforma Power BI, dados que permita acompanhar os municípios em ascenção,estagnação e declínio no mercado.  
@@ -67,6 +67,15 @@
 ## 📂 Anexos / Evidências
 - Slides da API
 - Print do jira
-- Print do Power BI
 - Requisitos do cliente
-- Colab (Python)
+- Colab (Python):
+
+https://github.com/user-attachments/assets/bedd447a-c192-421c-8ded-fe1d18c9b97a
+
+- Dashboard Power BI:
+
+https://github.com/user-attachments/assets/91f63308-8386-4856-8baa-a397e47c55ca
+
+
+
+
