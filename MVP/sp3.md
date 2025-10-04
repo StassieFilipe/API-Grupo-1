@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [Plataforma com análise comparativa regional, mercados emergentes e projeções futuras.]
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
@@ -25,8 +25,9 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como gestor,quero que tenha uma análise comparativa regional,para saber como um estado/munícipio paulista se compara ao de outros vizinhos.         | Alta       | 8   |
+| US2 | Como gestor,quero que tenha uma identificação de mercados emergentes,para verificar quais países têm aumentado a importação/exportação de produtos específicos.         | Alta      | 8    |
+| US3 | Como gestor,quero que na plataforma contenha projeções futuras,para ter análise de cenários futuros do desempenho comercial dos municípios nos próximos anos.   | Alta |  8  |
 
 ---
 
