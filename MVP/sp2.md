@@ -2,23 +2,22 @@
 
 ## 🎯 Objetivo do MVP
 > Visualizar as principais cargas movimentadas e comparar um estado/munícipio em relação aos seus vizinhos.   
-- Qual problema resolve? Observar quais os produtos mais movimentados e de como os estados/munícipios se comportam entre si.
-- Qual hipótese será validada? Um dashboard interativo, para melhor visualização do mercado e assim facilitar as decisões das empresas 
-- Qual valor será entregue ao usuário final? Gráficos interativos para melhor visualização dos dados e de como o mercado está se comportando influenciando nas melhores decisões.
-
+- Qual problema resolve? Analisar quais os produtos mais movimentados e de como os estados/munícipios se diferenciam entre si.
+- Qual hipótese será validada? Um dashboard interativo, para melhor visualização do mercado e assim facilitar as decisões das empresas. 
+- Qual valor será entregue ao usuário final? Gráficos interativos para analíse específicas dos dados e de como o mercado está se comportando, influenciando nas melhores decisões.  
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+>  Dashboard interativo para observar quais são as cargas mais movimentadas e uma analíse comparativas entre estados/munícipios. 
+- Funcionalidades principais incluídas: Apresentar as cargas mais movimentadas e comparações entre estados/munícipios.  
+- Limitações conhecidas: Apenas top 10/3.
+- Escopo reduzido: Visualização das principais cargas e analíse comparativa.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Gestores publicos do comércio exterior, precisa visualizar principais cargas e comportamentos entre os estados/munícipios e dificuldade em acessar dados comparativos e as cargas mais exportadas e importadas.
+- **Persona 2:** Analista/Empresa exportadora, busca entender riscos e incerteza sobre custos e dificuldade em planejar rotas.
 
 ---
 
@@ -33,20 +32,21 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | [Como gestor,quero que essa ferramenta possa fornecer dados claros,para permitir a identificação de municípios que estejam em ascenção,estagnação ou declínio no mercado.]                        | Concluído|
+| 03    | [Como gestor,quero que na plataforma contenha projeções futuras,para ter análise de cenários futuros do desempenho comercial dos municípios nos próximos anos.]                           | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário: Visualize estados/municípios em termos de comércio exterior e nacional.  
+- O sistema deve registrar: Analíse comparativas e  base de dados de estados/municípios. 
+- Métricas coletadas: Uso de filtros em análise.
+  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
+- Número de usuários que testaram a plataforma.  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
