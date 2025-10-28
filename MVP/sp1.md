@@ -39,7 +39,7 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Limpeza inicial dos dados CSV (Python),e dashboard com os dados dos municípios em ascenção,estagnação e declínio no mercado.                        | Concluído|
-| 02     | Dashboard interativo,que contenha módulos de busca e filtros,para análise específica.                           | Em andamento |
+| 02     | Dashboard interativo,que contenha módulos de busca e filtros,para análise específica.                           | Finalizado |
 
 ---
 
