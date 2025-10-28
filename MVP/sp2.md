@@ -32,8 +32,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Como gestor,quero que essa ferramenta possa fornecer dados claros,para permitir a identificação de municípios que estejam em ascenção,estagnação ou declínio no mercado.]                        | Concluído|
-| 03    | [Como gestor,quero que na plataforma contenha projeções futuras,para ter análise de cenários futuros do desempenho comercial dos municípios nos próximos anos.]                           | Em andamento |
+| 01     | Como gestor,quero que essa ferramenta possa fornecer dados claros,para permitir a identificação de municípios que estejam em ascenção,estagnação ou declínio no mercado.                        | Concluído|
+| 03    | Como gestor,quero que na plataforma contenha projeções futuras,para ter análise de cenários futuros do desempenho comercial dos municípios nos próximos anos.                           | Em andamento |
 
 ---
 
