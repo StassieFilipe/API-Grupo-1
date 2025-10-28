@@ -52,9 +52,9 @@ Este projeto tem como objetivo o desenvolvimento de uma plataforma power BI que 
 | 4    | Média      | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                                                 |  6         | 1      |
 | 5    | Média      | Como gestor,quero que essa ferramenta possa fornecer dados claros,para permitir a indentificação de municípios que estejam em ascenção,estagnação ou declínio no mercado.| 8          | 1      |
 | 4    | Alta       | Como gestor,quero que a plataforma apresenta informações detalhadas sobre segmentação por estado  e município paulista,para visualizar principais cargas movimentadas.| 8     | 2    |
-| 5 | Alta   | Como gestor,quero que o gráfico apresenta uma análise de vias de transportes,para identificar quais são as principais vias de transporte utilizadas para escoar exportações e receber importações.| 8 | 2 |
+| 5 | Alta   |Como gestor,quero que tenha uma análise comparativa regional,para saber como um estado/munícipio paulista se compara ao de outros vizinhos.| 8 | 2 |
 | 6 | Alta   | Como gestor,quero que contenham os módulos de busca e filtros,para análise específica.| 6 | 2 |
-| 7 | Alta   | Como gestor,quero que tenha uma análise comparativa regional,para saber como um estado/munícipio paulista se compara ao de outros vizinhos.| 8 | 3 |
+| 7 | Alta   | Como gestor,quero que o gráfico apresenta uma análise de vias de transportes,para identificar quais são as principais vias de transporte utilizadas para escoar exportações e receber importações.| 8 | 3 |
 | 8 | Alta   | Como gestor,quero que tenha uma identificação de mercados emergentes,para verificar quais países têm aumentado a importação/exportação de produtos específicos.| 8 | 3 |
 | 9 | Alta   | Como gestor,quero que na plataforma contenha projeções futuras,para ter análise de cenários futuros do desempenho comercial dos municípios nos próximos anos.| 8 | 3 |
 
