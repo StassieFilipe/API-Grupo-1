@@ -71,7 +71,7 @@ Este projeto tem como objetivo o desenvolvimento de uma plataforma power BI que 
 | Sprint            | Previsão   | Status       | Histórico         |
 |-------------------|------------|--------------|-------------------|
 | 01                | 02/10/2025 | Finalizado   | [MVP](MVP/sp1.md) |
-| 02                | 23/10/2025 | Em andamento | [MVP](MVP/sp2.md) |
+| 02                | 30/10/2025 | Finalizado | [MVP](MVP/sp2.md) |
 | 03                | 13/11/2025 | Em andamento | [MVP](MVP/sp3.md) |
 | Feira de Soluções | 04/12/2025 | Em andamento | [MVP](#)          |
 
