@@ -62,5 +62,9 @@
 ## 📂 Anexos / Evidências   
 - Vídeo Power BI
      
-https://github.com/user-attachments/assets/966c1761-e447-4e45-95eb-3327e6f7318b
+
+
+
+https://github.com/user-attachments/assets/baae4cef-7e9f-4732-8ebc-291d5e4a54a7
+
 
