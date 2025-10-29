@@ -59,7 +59,8 @@
 
 ---
 
-## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+## 📂 Anexos / Evidências   
+- Vídeo Power BI
+     
+https://github.com/user-attachments/assets/966c1761-e447-4e45-95eb-3327e6f7318b
+
