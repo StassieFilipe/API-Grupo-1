@@ -9,10 +9,10 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Uma plataforma BI que integra dados de mercados emergentes e análise de vias, permitindo visualizar tendências e gerar cenários futuros de forma simples e direta.  
+- Funcionalidades principais incluídas: Mapa/visualização inicial das vias analisadas, projeções simples de cenários futuros e integração mínima de fontes de dados essenciais. 
+- Limitações conhecidas: Visão restrita a 2023–2025.  
+- Escopo reduzido: Interface simples com poucas telas.  
 
 ---
 
@@ -62,5 +62,5 @@
 
 ## 📂 Anexos / Evidências
 - Prints de tela  
-- Fluxos ou protótipos  
+- Slides da API  
 - Vídeo (MVP)  
