@@ -17,8 +17,8 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Gestores publicos do comércio exterior, precisa visualizar principais cargas e comportamentos entre os estados/munícipios e dificuldade em acessar dados comparativos e as cargas mais exportadas e importadas. 
+- **Persona 2:** Analista/Empresa exportadora, busca entender riscos e incerteza sobre custos e dificuldade em planejar rotas.  
 
 ---
 
@@ -34,21 +34,21 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Como gestor,quero que essa ferramenta possa fornecer dados claros,para permitir a identificação de municípios que estejam em ascenção,estagnação ou declínio no mercado.                       | Concluído|
+| 02     | Como gestor,quero que a plataforma apresenta informações detalhadas sobre segmentação por estado  e município paulista,para visualizar principais cargas movimentadas.                          | Concluído|
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário: visualize pricipais vias/Mercados emergentes e projeções futuras.  
+- O sistema deve registrar: Base de dados de muncípios.  
+- Métricas coletadas: Tempo médio de carregamento.  
 
 ---
 
 ## 📈 Métricas de Validação
 - Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
+- Feedback qualitativo de gestores e analistas. 
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 ---
