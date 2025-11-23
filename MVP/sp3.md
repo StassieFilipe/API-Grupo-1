@@ -1,7 +1,7 @@
-# 📌 MVP - [Plataforma BI com mercados emergentes, análise de vias e acompanhamento para cenários futuros.]
+# 📌 MVP - [Plataforma BI com mercados emergentes, análise de vias e projeções para cenários futuros.]
 
 ## 🎯 Objetivo do MVP
-> Criar uma plataforma BI que integre dados de mercados emergentes e análise de vias, permitindo visualizar tendências e projetar cenários futuros para apoiar decisões estratégicas.
+> Criar uma plataforma BI que integre dados de mercados emergentes e análise de vias, permitindo visualizar tendências e projeções para cenários futuros para apoiar decisões estratégicas.
 - Qual problema resolve?  Resolve a falta de uma ferramenta centralizada e intuitiva que reúna dados complexos de mercados e infraestrutura para análises rápidas e confiáveis.
 - Qual hipótese será validada?  Acredita-se que a unificação de dados de mercado e análise de vias em uma única plataforma melhora significativamente a precisão e velocidade das decisões estratégicas.
 - Qual valor será entregue ao usuário final?  O usuário final receberá insights acionáveis e projeções claras que aumentam a eficiência, reduzem incertezas e facilitam decisões baseadas em dados.
@@ -60,7 +60,6 @@
 
 ---
 
-## 📂 Anexos / Evidências
-- Prints de tela  
+## 📂 Anexos / Evidências  
 - Slides da API  
 - Vídeo (MVP)  
