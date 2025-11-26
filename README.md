@@ -72,6 +72,6 @@ Este projeto tem como objetivo o desenvolvimento de uma plataforma power BI que 
 |-------------------|------------|--------------|-------------------|
 | 01                | 02/10/2025 | Finalizado   | [MVP](MVP/sp1.md) |
 | 02                | 30/10/2025 | Finalizado | [MVP](MVP/sp2.md) |
-| 03                | 28/11/2025 | Finalizad | [MVP](MVP/sp3.md) |
+| 03                | 28/11/2025 | Finalizado | [MVP](MVP/sp3.md) |
 | Feira de Soluções | 04/12/2025 | Em andamento | [MVP](#)          |
 
