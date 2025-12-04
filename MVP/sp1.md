@@ -74,7 +74,15 @@ https://github.com/user-attachments/assets/bedd447a-c192-421c-8ded-fe1d18c9b97a
 
 - Dashboard Power BI:
 
-https://github.com/user-attachments/assets/91f63308-8386-4856-8baa-a397e47c55ca
+
+
+https://github.com/user-attachments/assets/46004917-61eb-490c-bae8-bbf622e6ca36
+
+
+
+
+https://github.com/user-attachments/assets/0c86d993-df86-4d25-b26a-c60af14319ab
+
 
 
 
